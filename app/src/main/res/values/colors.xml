@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPurpleLight">#4B5980</color>
+    <color name="colorPurpleDark">#3F4A68</color>
+    <color name="colorAccent">#FC3768</color>
+    <color name="colorTextBlack">#333333</color>
+    <color name="colorTextHint">#e1e1e1</color>
+    <color name="colorTextInfo">#9b9b9b</color>
+    <color name="colorGreen">#A5DE40</color>
+    <color name="navColor">#80FFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dateSelection">#009688</color>
+    <color name="colorLead">#2196F3</color>x
+    <color name="gray">#E0E0E0</color>
+    <color name="pink">#f26d91</color>
+    <color name="pink_fade">#f4b7c8</color>
+    <color name="violet">#8E24AA</color>
+    <color name="yellow">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="tab_layout">#2196F3</color>
+    <color name="text_title">#4d4d4d</color>
+    <color name="text_des">#9c9c9c</color>
+    <color name="white">#ffffff</color>
+</resources>
